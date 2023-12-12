@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)(https://github.com/muhammedbadsha)]
+[![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)]
 
 
 <h1 align="center">Hi 👋, I'm Muhammed Badsha</h1>
